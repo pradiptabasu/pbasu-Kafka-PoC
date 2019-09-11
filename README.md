@@ -39,6 +39,12 @@
 * https://github.com/confluentinc/kafka-rest
 * https://docs.confluent.io/current/installation/installing_cp/index.html#installation
 * https://docs.confluent.io/current/kafka-rest/quickstart.html
+* https://www.progress.com/tutorials/jdbc/import-data-from-any-rest-api-to-kafka-incrementally-using-jdbc
+* https://docs.confluent.io/current/installation/available_packages.html#component-packages
+* https://stackoverflow.com/questions/49027895/kafka-rest-proxy-installation
+* https://docs.confluent.io/3.0.0/kafka-rest/docs/index.html
+* 
+* 
 
 # Kafka Setup download
 * https://kafka.apache.org/downloads

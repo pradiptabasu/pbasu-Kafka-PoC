@@ -68,8 +68,18 @@
 * 
 * 
 * 
+
+
+
+# Event Driven Microservices Architecture Patterns and Examples
+* https://mapr.com/blog/event-driven-microservices-patterns/
 * 
 * 
+* 
+* 
+
+# Should You Put Several Event Types in the Same Kafka Topic?
+* https://www.confluent.io/blog/put-several-event-types-kafka-topic/
 * 
 * 
 * 

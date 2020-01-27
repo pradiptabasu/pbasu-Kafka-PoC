@@ -58,3 +58,18 @@
 * https://linuxize.com/post/how-to-stop-and-disable-firewalld-on-centos-7/
 * https://www.liquidweb.com/kb/how-to-stop-and-disable-firewalld-on-centos-7/
 
+
+
+# How to achieve strict ordering with Apache Kafka?
+* https://www.cloudkarafka.com/blog/2018-08-21-faq-apache-kafka-strict-ordering.html
+* https://medium.com/@felipedutratine/kafka-ordering-guarantees-99320db8f87f
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
